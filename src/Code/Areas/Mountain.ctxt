@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Mountain
+comment1.params=
+comment1.target=Mountain()
+comment1.text=\r\n\ Class\ that\ represent\ a\ mountain,\ inherits\ all\ the\ field\ from\ the\ parent\ class\ Areas.\r\n
+numComments=2

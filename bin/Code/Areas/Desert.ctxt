@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Desert
+comment1.params=
+comment1.target=Desert()
+comment1.text=\r\n\ Class\ that\ represent\ a\ desert,\ inherits\ all\ the\ field\ from\ the\ parent\ class\ Areas,\ plus\ has\ his\ sandstorm\ field\ and\ a\ different\ checkEquipement\ method.\ \r\n
+comment2.params=
+comment2.target=void\ isSandStorm()
+comment2.text=\r\n\ Method\ that\ randomly\ decide\ whether\ there\ is\ a\ storm\ in\ the\ Desert.\r\n
+comment3.params=player
+comment3.target=boolean\ checkEquipment(Code.Creatures.Players)
+comment3.text=\r\n\ Method\ that\ checks\ if\ the\ player\ has\ the\ needed\ equipment\r\n
+numComments=4
