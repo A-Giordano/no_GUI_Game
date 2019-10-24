@@ -7,4 +7,5 @@ To play the game is enough to run the RunGame class and interact with the consol
 
 There are different areas to explore and different people to meet.
 Helping people in need you will receive useful equipment to proceed in the adventure.
+
 In order to win the  game it is necessary to reach the area containing the Special Item and obtain it
